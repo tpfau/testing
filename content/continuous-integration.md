@@ -500,7 +500,7 @@ $ git pull origin main
 Hint: if the above command fails, check whether the branch name on the GitHub/GitLab
 repository is called `main` and not perhaps `master`.
 
-Next uncomment the code in `example.py` under "step 5", commit, and push.
+Next uncomment the code in `test_functions.py` under "step 5", commit, and push.
 Verify that the test suite now fails on the "Actions" tab (GitHub)
 or the "CI/CD->Pipelines" tab (GitLab).
 
